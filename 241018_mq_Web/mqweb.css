@@ -339,7 +339,7 @@ nav .global-menu {
 /**** contact ****/
 .main_contact {
   color: #fff;
-  height: 40vh;
+  height: 50vh;
   background-image: linear-gradient(rgba(105, 169, 197, 0.8), rgba(105, 169, 197, 0.9)), url(./img/img-bg.jpg);
   background-attachment: fixed;
   background-size: cover;
@@ -413,6 +413,7 @@ nav .global-menu {
 
 .icon_group a img {
   height: 14px;
+  width: 14px;
 }
 .icon_group a {
   margin: 10px 15px 10px;
